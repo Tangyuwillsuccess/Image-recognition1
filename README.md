@@ -1,0 +1,2 @@
+# Image-recognition1
+Based on migration learning, image recognition is carried out. First, the image is preprocessed to enhance the resolution of the picture, identify the location of the target in the picture and extract the feature. Using PCA to reduce the dimension of the image, and finally use the migration learning to complete the classification of the pictures. The project is a classification of dogs in 100
